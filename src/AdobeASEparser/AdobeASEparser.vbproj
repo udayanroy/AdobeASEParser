@@ -63,6 +63,13 @@
   <ItemGroup>
     <Compile Include="BigEndianReader.vb" />
     <Compile Include="Class1.vb" />
+    <Compile Include="Colors\AdobeRGB.vb" />
+    <Compile Include="Colors\CMYK.vb" />
+    <Compile Include="Colors\ColorBlock.vb" />
+    <Compile Include="Colors\Gray.vb" />
+    <Compile Include="Colors\LAB.vb" />
+    <Compile Include="Colors\sRGB.vb" />
+    <Compile Include="Colors\XYZ.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
